@@ -1,0 +1,4 @@
+interface:
+  display_name: "TFT Guide Writer"
+  short_description: "整理和翻译 TFT 原稿为中文攻略"
+  default_prompt: "Use $tft-guide-writer to turn this TFT draft into a publishable Chinese guide."
